@@ -22,7 +22,7 @@ namespace TodoWebApp.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "your contact page";
 
             return View();
         }
