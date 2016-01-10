@@ -15,7 +15,7 @@ namespace TodoWebApp.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application is ready";
 
             return View();
         }
